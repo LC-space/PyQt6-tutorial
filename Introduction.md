@@ -1,4 +1,4 @@
-[目录]() [下一章]()
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/date%20and%20time.md)
 
 # 介绍PyQt6
 
