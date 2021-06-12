@@ -56,8 +56,10 @@ print(PYQT_VERSION_STR)
 
 我们打印Qt库和PyQt6模块的版本。
 
+```
 6.1.0
 6.1.0
+```
 
 本章介绍了PyQt6工具包。
 
