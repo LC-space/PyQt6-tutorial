@@ -14,3 +14,16 @@ pyqt6是Python的一个模块。它是一个多平台的工具包，可以在所
 
 PyQt6的类被分为几个模块，包括以下模块：
 
+- QtCore
+- QtGui
+- QtWidgets
+- QtDBus
+- QtNetwork
+- QtHelp
+- QtXml
+- QtSvg
+- QtSql
+- QtTest
+
+QtCore模块包含了核心的非GUI功能。这个模块用于处理时间、文件和目录、各种数据类型、流、URL、MIME类型、线程或进程。QtGui包含窗口系统集成、事件处理、2D图形、基本图像、字体和文本等类。QtWidgets模块包含的类提供了一组UI元素来创建经典的桌面风格的用户界面。
+

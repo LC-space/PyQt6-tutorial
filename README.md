@@ -2,7 +2,7 @@
 
 *最近修改于 2021年5月18日*
 
-（本教程翻译自https://zetcode.com/pyqt6/，译者水平有限，难免会有纰漏，望谅解，如果有难以理解之处可直接浏览英语网站。以下是原文翻译。）
+（本教程翻译自[https://zetcode.com/pyqt6/](https://zetcode.com/pyqt6/)，译者水平有限，难免会有纰漏，望谅解，如果有难以理解之处可直接浏览英语网站。以下是原文翻译。）
 
 这是PyQt6教程。本教程适合初学者和中级程序员。阅读本教程之后，您将能够编写重要的PyQt6应用程序。代码示例可以在作者的[PyQt6-Tutorial-Examples](https://github.com/janbodnar/PyQt6-Tutorial-Examples)仓库中找到。
 
