@@ -473,6 +473,8 @@ self.toolbar.addAction(exitAction)
 
 工具栏是使用addToolBar方法创建的。我们通过addAction向工具栏添加一个动作对象。
 
+![image-20210613220448187](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Menus%20and%20toolbars/img/image-20210613220448187.png)
+
 ## PyQt6主窗口
 
 在本节的最后一个示例中，我们将创建一个菜单栏、工具栏和状态栏。我们还创建了一个中心控件。
@@ -549,6 +551,6 @@ self.setCentralWidget(textEdit)
 
 这里我们创建了一个文本编辑控件。我们将它设置为QMainWindow的中心小部件。中央小部件会占用所有剩余的空间。
 
-![image-20210613214024743](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Menus%20and%20toolbars/img/image-20210613214024743.png)
+![image-20210613220040127](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Menus%20and%20toolbars/img/image-20210613220040127.png)
 
 在PyQt6教程的这一部分中，我们使用了菜单、工具栏、状态栏和主应用程序窗口。
