@@ -1,4 +1,4 @@
-[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章]() [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/First%20programs.md)
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/First%20programs.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/First%20programs.md)
 
 # PyQt6中的菜单和工具栏
 

@@ -27,7 +27,7 @@ class Example(QMainWindow):
 
     def initUI(self):
 
-        exitAct = QAction(QIcon('img/exit.png'), 'Exit', self)
+        exitAct = QAction(QIcon('https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Menus and toolbars/img/exit.png'), 'Exit', self)
         exitAct.setShortcut('Ctrl+Q')
         exitAct.triggered.connect(QApplication.instance().quit)
 
