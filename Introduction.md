@@ -1,7 +1,5 @@
 [目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Date%20and%20time.md)
 
-[TOC]
-
 # 介绍PyQt6
 
 *最近修改于2021年4月22日*

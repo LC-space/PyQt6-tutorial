@@ -1,7 +1,5 @@
 [目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章]() [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/First%20programs.md)
 
-[TOC]
-
 # PyQt6中的菜单和工具栏
 
 *最近更新于2021年4月24日*

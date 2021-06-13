@@ -1,6 +1,4 @@
-[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Date%20and%20time.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Meuns%20and%20toolbars.md)
-
-[TOC]
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Date%20and%20time.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Menus%20and%20toolbars.md)
 
 # PyQt6中的第一个程序
 
