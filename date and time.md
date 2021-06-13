@@ -1,5 +1,7 @@
 [目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Introduction.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/First%20programs.md)
 
+[TOC]
+
 # PyQt6日期和时间
 
 *最近更新于2021年4月23日*
