@@ -100,7 +100,7 @@ class Example(QMainWindow):
 
     def initUI(self):
 
-        exitAct = QAction(QIcon('https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Menus%20and%20toolbars/img/exit.png'), '&Exit', self)
+        exitAct = QAction(QIcon('img/exit.png'), '&Exit', self)
         exitAct.setShortcut('Ctrl+Q')
         exitAct.setStatusTip('Exit application')
         exitAct.triggered.connect(QApplication.instance().quit)
@@ -130,7 +130,7 @@ if __name__ == '__main__':
 在上面的例子中，我们创建了一个只有一个菜单的菜单栏。此菜单包含一个操作，如果选中，该操作将终止应用程序。状态栏也会被创建。该操作可以通过Ctrl+Q快捷键访问。
 
 ```python
-exitAct = QAction(QIcon('https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Menus%20and%20toolbars/img/exit.png'), '&Exit', self)
+exitAct = QAction(QIcon('img/exit.png'), '&Exit', self)
 exitAct.setShortcut('Ctrl+Q')
 exitAct.setStatusTip('Exit application')
 ```
@@ -433,7 +433,7 @@ class Example(QMainWindow):
 
     def initUI(self):
 
-        exitAct = QAction(QIcon('https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Menus%20and%20toolbars/img/exit.png'), 'Exit', self)
+        exitAct = QAction(QIcon('img/exit.png'), 'Exit', self)
         exitAct.setShortcut('Ctrl+Q')
         exitAct.triggered.connect(QApplication.instance().quit)
 
@@ -459,7 +459,7 @@ if __name__ == '__main__':
 在上面的示例中，我们创建了一个简单的工具栏。工具栏有一个工具操作，即当被触发时终止应用程序的退出操作。
 
 ```python
-exitAct = QAction(QIcon('https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Menus%20and%20toolbars/img/exit.png'), 'Exit', self)
+exitAct = QAction(QIcon('img/exit.png'), 'Exit', self)
 exitAct.setShortcut('Ctrl+Q')
 exitAct.triggered.connect(QApplication.instance().quit)
 ```
@@ -512,7 +512,7 @@ class Example(QMainWindow):
         textEdit = QTextEdit()
         self.setCentralWidget(textEdit)
 
-        exitAct = QAction(QIcon('https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Menus%20and%20toolbars/img/exit.png'), 'Exit', self)
+        exitAct = QAction(QIcon('img/exit.png'), 'Exit', self)
         exitAct.setShortcut('Ctrl+Q')
         exitAct.setStatusTip('Exit application')
         exitAct.triggered.connect(self.close)
