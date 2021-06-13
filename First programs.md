@@ -98,7 +98,7 @@ sys.exit(app.exec())
 
 最后，我们进入应用程序的主循环。事件处理从这里开始。主循环从窗口系统接收事件，并将它们分派给应用程序控件。如果我们调用exit方法，或者主控件被关闭，则主循环结束。sys.exit方法确保完全的退出。将告知环境应用程序是如何结束的。
 
-![image-20210613145725126](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210613145725126.png)
+![image-20210613145725126](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/First%20programs/img/image-20210613145725126.png)
 
 ## PyQt6提示信息
 
@@ -187,7 +187,7 @@ btn.move(50, 50)
 
 调整窗口上按钮的大小和移动。sizeHint方法给出了按钮的推荐大小。
 
-![image-20210613151219139](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210613151219139.png)
+![image-20210613151219139](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/First%20programs/img/image-20210613151219139.png)
 
 ## PyQt6退出按钮
 
@@ -266,7 +266,7 @@ PyQt6中的事件处理系统是用信号&槽机制构建的。如果我们点�
 
 QCoreApplication，它是用QApplication.instance检索的。包含主事件循环——它处理和分派所有事件。单击的信号连接到终止应用程序的quit方法。通信是在两个对象之间完成的：发送方和接收方。发送方是按钮，接收方是应用程序对象。
 
-![image-20210613152347253](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210613152347253.png)
+![image-20210613152347253](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/First%20programs/img/image-20210613152347253.png)
 
 ## PyQt6消息框
 
@@ -347,7 +347,7 @@ else:
 
 这里我们测试返回值。如果单击Yes按钮，就会接受导致控件关闭和应用程序终止的事件。否则我们将忽略关闭事件。
 
-![image-20210613160315565](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210613160315565.png)
+![image-20210613160315565](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/First%20programs/img/image-20210613160315565.png)
 
 ## PyQt6中心窗口
 
