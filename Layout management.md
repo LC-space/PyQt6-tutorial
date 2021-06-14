@@ -79,7 +79,7 @@ lbl1.move(15, 10)
 
 标签控件位于x=15和y=10。
 
-![image-20210614160258237](F:\programming\Cplus\Qt\PyQt6-tutorial\Layout management\img\image-20210614160258237.png)
+![image-20210614160258237](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Layout%20management/img/image-20210614160258237.png)
 
 ## PyQt6 QHBoxLayout
 
@@ -179,7 +179,7 @@ self.setLayout(vbox)
 
 最后，我们设置了窗口的主布局。
 
-![image-20210614161426013](F:\programming\Cplus\Qt\PyQt6-tutorial\Layout management\img\image-20210614161426013.png)
+![image-20210614161426013](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Layout%20management/img/image-20210614161426013.png)
 
 ## PyQt6 QGridLayout
 
@@ -286,7 +286,7 @@ for position, name in zip(positions, names):
 
 使用addWidget方法创建按钮并将其添加到布局中。
 
-![image-20210614162316241](F:\programming\Cplus\Qt\PyQt6-tutorial\Layout management\img\image-20210614162316241.png)
+![image-20210614162316241](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Layout%20management/img/image-20210614162316241.png)
 
 ## 评论的例子
 
@@ -375,7 +375,7 @@ grid.addWidget(reviewEdit, 3, 1, 5, 1)
 
 如果将控件添加到网格中，则可以提供控件的行跨度和列跨度。在我们的例子中，我们让reviewEdit控件跨越5行。
 
-![image-20210614162945125](F:\programming\Cplus\Qt\PyQt6-tutorial\Layout management\img\image-20210614162945125.png)
+![image-20210614162945125](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Layout%20management/img/image-20210614162945125.png)
 
 PyQt6教程的这一部分专注于布局管理。
 

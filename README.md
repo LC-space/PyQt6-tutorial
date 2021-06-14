@@ -26,7 +26,7 @@
 * [日期及时间](https://github.com/LC-space/PyQt6-tutorial/blob/main/Date%20and%20time.md)
 * [第一个程序](https://github.com/LC-space/PyQt6-tutorial/blob/main/First%20programs.md)
 * [菜单栏和工具栏](https://github.com/LC-space/PyQt6-tutorial/blob/main/Menus%20and%20toolbars.md)
-* [布局管理]()
+* [布局管理](https://github.com/LC-space/PyQt6-tutorial/blob/main/Layout%20management.md)
 * [事件和信号]()
 * [对话框]()
 * [控件]()
