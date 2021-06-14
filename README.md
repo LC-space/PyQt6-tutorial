@@ -27,7 +27,7 @@
 * [第一个程序](https://github.com/LC-space/PyQt6-tutorial/blob/main/First%20programs.md)
 * [菜单栏和工具栏](https://github.com/LC-space/PyQt6-tutorial/blob/main/Menus%20and%20toolbars.md)
 * [布局管理](https://github.com/LC-space/PyQt6-tutorial/blob/main/Layout%20management.md)
-* [事件和信号]()
+* [事件和信号](https://github.com/LC-space/PyQt6-tutorial/blob/main/Events%20and%20signals.md)
 * [对话框]()
 * [控件]()
 * [控件2]()
