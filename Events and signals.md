@@ -88,7 +88,7 @@ sld.valueChanged.connect(lcd.display)
 
 发送方是一个发送信号的对象。接收器是接收信号的对象。槽是对信号作出反应的方法。
 
-![image-20210614204459852](F:\programming\Cplus\Qt\PyQt6-tutorial\Events and signals\img\image-20210614204459852.png)
+![image-20210614204459852](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Events%20and%20signals/img/image-20210614204459852.png)
 
 ## PyQt6重新实现事件处理程序
 
@@ -252,7 +252,7 @@ self.label = QLabel(self.text, self)
 
 x和y坐标显示在QLabel控件中。
 
-![image-20210614210417063](F:\programming\Cplus\Qt\PyQt6-tutorial\Events and signals\img\image-20210614210417063.png)
+![image-20210614210417063](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Events%20and%20signals/img/image-20210614210417063.png)
 
 ## PyQt6事件发送方
 
@@ -341,7 +341,7 @@ def buttonClicked(self):
 
 我们通过调用发送方方法来确定信号源。在应用程序的状态栏中，我们显示了被按下的按钮的标签。
 
-![image-20210614212436159](F:\programming\Cplus\Qt\PyQt6-tutorial\Events and signals\img\image-20210614212436159.png)
+![image-20210614212436159](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Events%20and%20signals/img/image-20210614212436159.png)
 
 ## PyQt6发出信号
 
