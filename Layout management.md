@@ -1,4 +1,4 @@
-[目录](https://github.com/LC-space/PyQt6-tutorial) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Menus%20and%20toolbars.md) [下一章]()
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Menus%20and%20toolbars.md) [下一章]()
 
 # PyQt6中的布局管理
 
