@@ -87,7 +87,7 @@ if ok:
 
 我们从对话框接收到的文本被设置为使用setText()的行编辑控件。
 
-![image-20210617175356639](F:\programming\Cplus\Qt\PyQt6-tutorial\Dialogs\img\image-20210617175356639.png)
+![image-20210617175356639](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Dialogs/img/image-20210617175356639.png)
 
 ## PyQt6 QColorDialog
 

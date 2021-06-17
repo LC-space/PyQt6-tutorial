@@ -97,7 +97,7 @@ else:
 
 控件的状态被赋给状态变量中的changeTitle方法。如果控件被选中，我们将设置窗口的标题。否则，我们为标题栏设置一个空字符串。
 
-![image-20210617204451891](F:\programming\Cplus\Qt\PyQt6-tutorial\Widgets\img\image-20210617204451891.png)
+![image-20210617204451891](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Widgets/img/image-20210617204451891.png)
 
 ## 开关按钮
 
@@ -235,7 +235,7 @@ self.square.setStyleSheet("QFrame { background-color: %s }" %
 
 我们使用样式表来改变背景颜色。使用setStyleSheet方法更新样式表。
 
-![image-20210617213535523](F:\programming\Cplus\Qt\PyQt6-tutorial\Widgets\img\image-20210617213535523.png)
+![image-20210617213535523](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Widgets/img/image-20210617213535523.png)
 
 ## PyQt6 QSlider
 
@@ -343,7 +343,7 @@ if value == 0:
 
 根据滑块的值，我们将图像设置为标签。在上面的代码中，如果滑块等于0，我们将mute .png图像设置到标签。
 
-![image-20210617223034230](F:\programming\Cplus\Qt\PyQt6-tutorial\Widgets\img\image-20210617223034230.png)
+![image-20210617223034230](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Widgets/img/image-20210617223034230.png)
 
 ## PyQt6 QProgressBar
 
@@ -475,7 +475,7 @@ def doAction(self):
 
 在doAction方法中，我们启动和停止计时器。
 
-![image-20210617223524029](F:\programming\Cplus\Qt\PyQt6-tutorial\Widgets\img\image-20210617223524029.png)
+![image-20210617223524029](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Widgets/img/image-20210617223524029.png)
 
 ## PyQt6 QCalendarWidget
 
