@@ -384,3 +384,6 @@ Days since Borodino battle: 76249
 当我们运行这个脚本时，从斯拉科夫战役到现在已经过去了78720天，从波罗底诺战役到现在已经过去了76249天。
 
 在PyQt6教程的这一部分中，我们使用了日期和时间。
+
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Introduction.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/First%20programs.md)
+

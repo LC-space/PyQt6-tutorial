@@ -432,3 +432,5 @@ def mousePressEvent(self, event):
 
 在PyQt6教程的这一部分中，我们讨论了信号和槽。
 
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章]() [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Layout%20management.md)
+

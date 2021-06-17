@@ -554,3 +554,6 @@ self.setCentralWidget(textEdit)
 ![image-20210613220040127](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Menus%20and%20toolbars/img/image-20210613220040127.png)
 
 在PyQt6教程的这一部分中，我们使用了菜单、工具栏、状态栏和主应用程序窗口。
+
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/First%20programs.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Layout%20management.md)
+

@@ -378,3 +378,6 @@ grid.addWidget(reviewEdit, 3, 1, 5, 1)
 ![image-20210614162945125](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Layout%20management/img/image-20210614162945125.png)
 
 PyQt6教程的这一部分专注于布局管理。
+
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Menus%20and%20toolbars.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Events%20and%20signals.md)
+

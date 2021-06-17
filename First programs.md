@@ -439,3 +439,6 @@ self.move(qr.topLeft())
 我们将应用程序窗口的左上角移动到qr矩形的左上角，从而使窗口在屏幕上居中。
 
 在PyQt6教程的这一部分中，我们已经在PyQt6中创建了简单的代码示例。
+
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Date%20and%20time.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Menus%20and%20toolbars.md)
+
