@@ -1,4 +1,4 @@
-[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Widgets%20II.md) [下一章]()
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Widgets%20II.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Painting.md)
 
 # PyQt6中的拖放
 
@@ -300,5 +300,5 @@ e.accept()
 
 PyQt6教程的这一部分专门用于拖放操作。
 
-[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Widgets%20II.md) [下一章]()
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Widgets%20II.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Painting.md)
 

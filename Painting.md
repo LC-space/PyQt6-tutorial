@@ -1,4 +1,4 @@
-[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Dialogs.md) [下一章]()
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Drag%20%26%20drop.md) [下一章]()
 
 # PyQt6中的绘图
 
@@ -111,7 +111,7 @@ qp.drawText(event.rect(), Qt.AlignmentFlag.AlignCenter, self.text)
 
 drawText方法在窗口上绘制文本。paint事件的rect方法返回需要更新的矩形。使用Qt.AlignmentFlag.Aligncenter，我们在两个维度上对齐文本。
 
-![image-20210618225250881](F:\programming\Cplus\Qt\PyQt6-tutorial\Painting\img\image-20210618225250881.png)
+![image-20210618225250881](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Painting/img/image-20210618225250881.png)
 
 ## PyQt6画点
 
@@ -204,7 +204,7 @@ qp.drawPoint(x, y)
 
 我们用drawPoint方法绘制这个点。
 
-![image-20210618225620602](F:\programming\Cplus\Qt\PyQt6-tutorial\Painting\img\image-20210618225620602.png)
+![image-20210618225620602](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Painting/img/image-20210618225620602.png)
 
 ## PyQt6颜色
 
@@ -295,7 +295,7 @@ qp.drawRect(10, 15, 90, 60)
 
 这里我们定义一个画笔并绘制一个矩形。笔刷是一种基本的图形对象，用于绘制形状的背景。drawRect方法接受四个参数。前两个是轴上的x和y值。第三和第四个参数是矩形的宽度和高度。该方法使用当前的钢笔和画笔绘制矩形。
 
-![image-20210618225744951](F:\programming\Cplus\Qt\PyQt6-tutorial\Painting\img\image-20210618225744951.png)
+![image-20210618225744951](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Painting/img/image-20210618225744951.png)
 
 ## PyQt6 QPen
 
@@ -400,7 +400,7 @@ qp.setPen(pen)
 
 这里我们定义了一个自定义的钢笔样式。我们设置一个Qt.PenStyle.CustomDashLine钢笔样式，并调用setDashPattern方法。数字列表定义了一种风格。必须有偶数个数字。奇数定义破折号，偶数定义空格。数字越大，空格或破折号就越大。我们的图案是1px短划，4px间距，5px短划，4px间距等等。
 
-![image-20210618230227377](F:\programming\Cplus\Qt\PyQt6-tutorial\Painting\img\image-20210618230227377.png)
+![image-20210618230227377](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Painting/img/image-20210618230227377.png)
 
 ## PyQt6 QBrush
 
@@ -509,7 +509,7 @@ qp.drawRect(10, 15, 90, 60)
 
 我们定义一个画笔对象。我们将其设置为画家对象，并通过调用drawRect方法绘制矩形。
 
-![image-20210618230420456](F:\programming\Cplus\Qt\PyQt6-tutorial\Painting\img\image-20210618230420456.png)
+![image-20210618230420456](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Painting/img/image-20210618230420456.png)
 
 ## 贝塞尔曲线
 
@@ -595,8 +595,8 @@ qp.drawPath(path)
 
 最终的路径是用drawPath方法绘制的。
 
-![image-20210618230729351](F:\programming\Cplus\Qt\PyQt6-tutorial\Painting\img\image-20210618230729351.png)
+![image-20210618230729351](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Painting/img/image-20210618230729351.png)
 
 在PyQt6教程的这一部分中，我们做了一些基本的绘画。
 
-[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Dialogs.md) [下一章]()
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Drag%20%26%20drop.md) [下一章]()

@@ -32,7 +32,7 @@
 * [控件](https://github.com/LC-space/PyQt6-tutorial/blob/main/Widgets.md)
 * [控件2](https://github.com/LC-space/PyQt6-tutorial/blob/main/Widgets%20II.md)
 * [拖放](https://github.com/LC-space/PyQt6-tutorial/blob/main/Drag%20%26%20drop.md)
-* [绘画]()
+* [绘画](https://github.com/LC-space/PyQt6-tutorial/blob/main/Painting.md)
 * [自定义控件]()
 * [俄罗斯方块]()
 
