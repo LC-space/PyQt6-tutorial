@@ -31,7 +31,7 @@
 * [对话框](https://github.com/LC-space/PyQt6-tutorial/blob/main/Dialogs.md)
 * [控件](https://github.com/LC-space/PyQt6-tutorial/blob/main/Widgets.md)
 * [控件2]()
-* [拖拽]()
+* [拖放]()
 * [绘画]()
 * [自定义控件]()
 * [俄罗斯方块]()
