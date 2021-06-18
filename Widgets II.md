@@ -1,4 +1,4 @@
-[目录]() [上一章]() [下一章]()
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Widgets.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Drag%20%26%20drop.md)
 
 # PyQt6控件2
 
@@ -167,7 +167,7 @@ def onChanged(self, text):
 
 在onChanged方法内部，我们将类型化文本设置为标签控件。我们调用adjustSize方法来调整标签的大小以适应文本的长度。
 
-![image-20210618102845014](F:\programming\Cplus\Qt\PyQt6-tutorial\Widgets II\img\image-20210618102845014.png)
+![image-20210618102845014](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Widgets%20II/img/image-20210618102845014.png)
 
 ## PyQt6 QSplitter
 
@@ -266,7 +266,7 @@ splitter2.addWidget(splitter1)
 
 我们还可以向另一个分割器控件添加分割器。
 
-![image-20210618105544854](F:\programming\Cplus\Qt\PyQt6-tutorial\Widgets II\img\image-20210618105544854.png)
+![image-20210618105544854](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Widgets%20II/img/image-20210618105544854.png)
 
 ## PyQt6 QComboBox
 
@@ -368,7 +368,8 @@ def onActivated(self, text):
 
 在该方法内部，我们将所选项目的文本设置为标签控件。我们调整标签的大小。
 
-![image-20210618110033614](F:\programming\Cplus\Qt\PyQt6-tutorial\Widgets II\img\image-20210618110033614.png)
+![image-20210618110033614](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Widgets%20II/img/image-20210618110033614.png)
 
 在PyQt6教程的这一部分，我们已经讨论了QPixmap, QLineEdit, QSplitter和QComboBox。
 
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Widgets.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Drag%20%26%20drop.md)

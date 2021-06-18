@@ -1,6 +1,6 @@
-[目录]() [上一章]() [下一章]()
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Widgets%20II.md) [下一章]()
 
-# Drag and drop in PyQt6
+# PyQt6中的拖放
 
 *最近更新于2021年5月15日*
 
@@ -139,7 +139,7 @@ edit.setDragEnabled(True)
 
 QLineEdit控件内置了对拖动操作的支持。我们需要做的就是调用setDragEnabled方法来激活它。
 
-![image-20210618151201975](F:\programming\Cplus\Qt\PyQt6-tutorial\Drag & drop\img\image-20210618151201975.png)
+![image-20210618151201975](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Drag%20%26%20drop/img/image-20210618151201975.png)
 
 ## 拖放一个按钮控件
 
@@ -299,3 +299,6 @@ e.accept()
 我们使用setDropAction来指定拖放操作的类型。在我们的例子中，它是一个移动动作。
 
 PyQt6教程的这一部分专门用于拖放操作。
+
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Widgets%20II.md) [下一章]()
+
