@@ -1,4 +1,4 @@
-[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Drag%20%26%20drop.md) [下一章]()
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Drag%20%26%20drop.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Custom%20widgets.md)
 
 # PyQt6中的绘图
 
@@ -599,4 +599,4 @@ qp.drawPath(path)
 
 在PyQt6教程的这一部分中，我们做了一些基本的绘画。
 
-[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Drag%20%26%20drop.md) [下一章]()
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Drag%20%26%20drop.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Custom%20widgets.md)

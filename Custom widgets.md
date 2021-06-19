@@ -1,4 +1,4 @@
-[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Painting.md) [下一章]()
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Painting.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/The%20Tetris%20game.md)
 
 # PyQt6中的自定义控件
 
@@ -229,8 +229,9 @@ def changeValue(self, value):
 
 当我们移动滑块时，会调用changeValue方法。在该方法内部，我们发送一个带有参数的自定义updateBW信号。该参数是滑块的当前值。该值稍后用于计算要绘制的烧录控件的容量。然后将重新绘制自定义控件。
 
-![image-20210619210157102](F:\programming\Cplus\Qt\PyQt6-tutorial\Custom widgets\img\image-20210619210157102.png)
+![image-20210619210157102](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Custom%20widgets/img/image-20210619210157102.png)
 
 在PyQt6教程的这一部分中，我们创建了一个自定义控件。
 
-[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Painting.md) [下一章]()
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Painting.md) [下一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/The%20Tetris%20game.md)
+

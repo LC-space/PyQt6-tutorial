@@ -1,4 +1,4 @@
-[目录]() [上一章]()
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Custom%20widgets.md)
 
 # PyQt6俄罗斯方块
 
@@ -12,7 +12,7 @@
 
 俄罗斯方块是一种下落的方块拼图游戏。在这个游戏中，我们有七种不同的形状，叫做Tetrominoe：S形、Z形、T形、L形、线形、镜像L形和方形。每一个形状都由四个正方形组成。这些形状正从Board上掉下来。俄罗斯方块游戏的目标是移动和旋转形状，使它们尽可能适合。如果我们能排成一排，那排就会被破坏，我们就能得分。当方块从顶部溢出时结束游戏。
 
-![Tetrominoes](F:\programming\Cplus\Qt\PyQt6-tutorial\The Tetris game\img\tetrominoes.png)
+![Tetrominoes](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/The%20Tetris%20game/img/tetrominoes.png)
 
 PyQt6是一个用于创建应用程序的工具包。还有其他一些库是专门用来制作电脑游戏的。不过，PyQt6和其他应用程序工具包可以用来创建简单的游戏。
 
@@ -856,7 +856,7 @@ self.coords = [[0,0] for i in range(4)]
 
 在创建之后，我们创建了一个空的坐标列表。该列表将保存俄罗斯方块的坐标。
 
-![Coordinates](F:\programming\Cplus\Qt\PyQt6-tutorial\The Tetris game\img\coordinates.png)
+![Coordinates](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/The%20Tetris%20game/img/coordinates.png)
 
 上面的图像将有助于理解更多的坐标值。例如，元组(0，-1)、(0,0)、(-1,0)、(-1，-1)表示一个Z形。图表说明了形状。
 
@@ -880,6 +880,9 @@ def rotateLeft(self):
 
 rotatleft方法将一个方块向左旋转。正方形不需要旋转。这就是为什么我们只返回对当前对象的引用。创建一个新方块，并将其坐标设置为旋转后的方块的坐标。
 
-![image-20210619231356476](F:\programming\Cplus\Qt\PyQt6-tutorial\The Tetris game\img\image-20210619231356476.png)
+![image-20210619231356476](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/The%20Tetris%20game/img/image-20210619231356476.png)
 
 这是PyQt6中的俄罗斯方块游戏。
+
+[目录](https://github.com/LC-space/PyQt6-tutorial/blob/main/README.md) [上一章](https://github.com/LC-space/PyQt6-tutorial/blob/main/Custom%20widgets.md)
+
