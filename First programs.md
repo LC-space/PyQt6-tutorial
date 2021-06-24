@@ -78,7 +78,7 @@ resize方法调整控件的大小。它是250px宽，150px高。
 w.move(300, 300)
 ```
 
-move方法将小部件移动到屏幕上坐标为x=300， y=300的位置。
+move方法将控件移动到屏幕上坐标为x=300， y=300的位置。
 
 ```python
 w.setWindowTitle('Simple')
@@ -193,7 +193,7 @@ btn.move(50, 50)
 
 关闭窗口最明显的方法是单击标题栏上的x标记。在下一个示例中，我们将展示如何以编程方式关闭窗口。我们将简要地讨论信号和槽。
 
-下面是我们在示例中使用的QPushButton小部件的构造函数。
+下面是我们在示例中使用的QPushButton控件的构造函数。
 
 ```python
 QPushButton(string text, QWidget parent = None)
@@ -256,7 +256,7 @@ if __name__ == '__main__':
 qbtn = QPushButton('Quit', self)
 ```
 
-我们创造了一个按钮。按钮是QPushButton类的一个实例。构造函数的第一个参数是按钮的标签。第二个参数是父控件。父控件是Example控件，它是一个继承的QWidget。
+我们创造了一个按钮。按钮是QPushButton类的一个实例。构造函数的第一个参数是按钮的标签。第二个参数是父控件。父控件是Example控件，它继承自QWidget。
 
 ```python
 qbtn.clicked.connect(QApplication.instance().quit)
@@ -412,7 +412,7 @@ QScreen类用于查询屏幕属性。
 self.center()
 ```
 
-将窗口居中的代码放置在自定义中心方法中。
+将窗口居中的代码放置在自定义center方法中。
 
 ```python
 qr = self.frameGeometry()
