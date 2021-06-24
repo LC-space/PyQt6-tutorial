@@ -228,7 +228,7 @@ impMenu.addAction(impAct)
 
 ![image-20210613210325588](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Menus%20and%20toolbars/img/image-20210613210325588.png)
 
-## PyQt6检查菜单
+## PyQt6可选菜单
 
 在下面的示例中，我们创建了一个可以勾选和取消勾选的菜单。
 
@@ -297,13 +297,13 @@ if __name__ == '__main__':
     main()
 ```
 
-代码示例创建了一个带有一个操作的View菜单。该操作显示或隐藏状态栏。当状态栏可见时，菜单项被选中。
+代码示例创建了一个可操作的View菜单。该操作显示或隐藏状态栏。当状态栏可见时，菜单项被选中。
 
 ```python
 viewStatAct = QAction('View statusbar', self, checkable=True)
 ```
 
-使用可勾选选项，我们创建了一个可勾选菜单。
+使用可勾选选项，我们创建了一个可选菜单。
 
 ```
 viewStatAct.setChecked(True)
@@ -549,7 +549,7 @@ textEdit = QTextEdit()
 self.setCentralWidget(textEdit)
 ```
 
-这里我们创建了一个文本编辑控件。我们将它设置为QMainWindow的中心小部件。中央小部件会占用所有剩余的空间。
+这里我们创建了一个文本编辑控件。我们将它设置为QMainWindow的中心控件。中央控件会占用所有剩余的空间。
 
 ![image-20210613220040127](https://raw.githubusercontent.com/LC-space/PyQt6-tutorial/main/Menus%20and%20toolbars/img/image-20210613220040127.png)
 
